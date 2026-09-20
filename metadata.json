@@ -1,0 +1,6 @@
+{
+  "name": "MIND LOCK",
+  "description": "A minimal circular brain challenge testing memory, attention, logic, and reaction control with a glowing neon green aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
